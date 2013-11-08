@@ -1,7 +1,8 @@
 *.py[cod]
-
+env
 # C extensions
 *.so
+*.iml
 
 # Packages
 *.egg
